@@ -54,8 +54,8 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotZeroSlash&layout=compact&theme=dark" alt="top languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dotZeroSlash&show_icons=true&theme=dark" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingInCarhartts&layout=compact&theme=dark" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodingInCarhartts&show_icons=true&theme=dark" alt="github stats" />
 
 </div>
 
