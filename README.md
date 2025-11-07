@@ -1,25 +1,29 @@
 
 <div align="center">
-  <a href="https://www.twitch.tv/dotzeroslash">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <a href="https://www.kick.com/throatpies">
+    <img src="https://img.shields.io/static/v1?message=Kick&logo=kick&label=&color=00e701&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   </a>
 </div>
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey There 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm a full-stack developer based in the Pacific Northwest, US. Even with over a decade of experience, I still joke about being "just a hobbyist..."<br><br>
-- 🔭 I'm currently diving into DevOps and exploring the world of Scala.<br>
-- 🌱 My main interests are backend technologies, AI, and contributing to FOSS projects.<br>
-- 📂 I'm tidying up old projects, deciding which to expand and which to archive.<br>
-- ⚡ Fun fact: I'm a bit of a "patchfix junkie" — I often try things without worrying about the consequences.</p>
+<p align="left">I'm a full-stack developer based in the Pacific Northwest, specializing in Rust and system automation. I build tools that solve real problems — from game modification frameworks to AI-powered workflow automation.<br><br>
+- 🦀 Currently focused on Rust development with explorations into Zig and Odin<br>
+- 🤖 Building LLM integrations, Discord bots, and N8N automation workflows<br>
+- 🎮 Active in game modding (FiveM/GTA) and bot development for OSRS<br>
+- 🐧 Running Arch-based Omarchy with heavy Docker containerization<br>
+- 📂 Maintaining multiple projects across Rust, Python, TypeScript, and Lua<br>
+- ⚡ Known for systematic debugging and iterative problem-solving — I break things to understand them better</p>
+
+<hr/>
 
 ###
 
@@ -27,7 +31,10 @@
 
 ###
 
-<div align="left">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingInCarhartts&layout=compact&theme=dark" alt="top languages" />
+</div>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -49,14 +56,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
+<hr/>
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingInCarhartts&layout=compact&theme=dark" alt="top languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=CodingInCarhartts&show_icons=true&theme=dark" alt="github stats" />
 
 </div>
+<hr/>
+<h3 align="center">Featured Projects</h3>
+
+- stream-monitor → https://github.com/CodingInCarhartts/stream-monitor  
+  <sub>One‑liner about what it does and why it exists.</sub>
+
+- Remix → https://github.com/CodingInCarhartts/Remix  
+  <sub>One‑liner about the purpose or what you learned.</sub>
+
+- commit-message → https://github.com/CodingInCarhartts/commit-message  
+  <sub>One‑liner about the utility and where it fits in your workflow.</sub>
+
+- app-hoist → https://github.com/CodingInCarhartts/app-hoist  
+  <sub>One‑liner on the problem it solves.</sub>
 
 ### 
