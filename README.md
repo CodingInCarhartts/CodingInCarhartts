@@ -70,15 +70,15 @@
 <h3 align="center">Featured Projects</h3>
 
 - stream-monitor → https://github.com/CodingInCarhartts/stream-monitor  
-  <sub>One‑liner about what it does and why it exists.</sub>
+  <sub>A Python tool that monitors Kick streaming chat in real-time to detect mentions of your username and sends instant Discord notifications, helping content creators and viewers stay aware of chat activity across multiple streams.</sub>
 
 - Remix → https://github.com/CodingInCarhartts/Remix  
-  <sub>One‑liner about the purpose or what you learned.</sub>
+  <sub>A blazing-fast Rust CLI tool that packages entire codebases into single AI-friendly files, teaching efficient repository processing, WebSocket-like real-time data handling, and performance optimization through Rust's memory safety and concurrency features.</sub>
 
 - commit-message → https://github.com/CodingInCarhartts/commit-message  
-  <sub>One‑liner about the utility and where it fits in your workflow.</sub>
+  <sub>A Rust CLI tool that automates the commit message creation step in your git workflow by analyzing staged changes and git history to generate AI-powered conventional commit messages, replacing manual commit message writing.</sub>
 
 - app-hoist → https://github.com/CodingInCarhartts/app-hoist  
-  <sub>One‑liner on the problem it solves.</sub>
+  <sub>A unified CLI that eliminates tool fragmentation in development workflows by providing a single interface for managing packages, projects, Docker containers, and multi-project deployments across different environments.</sub>
 
 ### 
