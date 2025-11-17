@@ -69,6 +69,9 @@
 <hr/>
 <h3 align="center">Featured Projects</h3>
 
+- opencode-updater → https://github.com/CodingInCarhartts/opencode-updater  
+  <sub>A simple Rust utility that updates the opencode binary to the latest version from GitHub releases, performing checksum verification and automated installation to provide a faster alternative to AUR updates.</sub>
+  
 - stream-monitor → https://github.com/CodingInCarhartts/stream-monitor  
   <sub>A Python tool that monitors Kick streaming chat in real-time to detect mentions of your username and sends instant Discord notifications, helping content creators and viewers stay aware of chat activity across multiple streams.</sub>
 
