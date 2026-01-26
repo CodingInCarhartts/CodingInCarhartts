@@ -23,6 +23,7 @@
 - 📂 Maintaining multiple projects across Rust, Python, TypeScript, and Lua<br>
 - ⚡ Known for systematic debugging and iterative problem-solving — I break things to understand them better</p>
 
+[GPUS](https://runpod.io?ref=duz1inr5)
 <hr/>
 
 ###
