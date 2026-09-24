@@ -1,88 +1,91 @@
-
 <div align="center">
-  <a href="https://www.kick.com/throatpies">
-    <img src="https://img.shields.io/static/v1?message=Kick&logo=kick&label=&color=00e701&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  </a>
+
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=DEA584&center=true&vCenter=true&width=700&lines=Hey%2C+I%27m+CodingInCarhartts;Desktop+agents+%2B+systems+tooling;CachyOS+%7C+Niri+%7C+Podman)](https://github.com/CodingInCarhartts)
+
+**Pacific Northwest · Full-stack builder · Rust / TS / Python / Go**
+
+[![CachyOS](https://img.shields.io/badge/CachyOS-rolling-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://github.com/CodingInCarhartts)
+[![Niri](https://img.shields.io/badge/Niri-tiling_WM-7aa2f7?style=for-the-badge&logo=wayland&logoColor=white)](https://github.com/CodingInCarhartts)
+[![Podman](https://img.shields.io/badge/Podman-not_Docker-892ca0?style=for-the-badge&logo=podman&logoColor=white)](https://github.com/CodingInCarhartts)
+[![Rust](https://img.shields.io/badge/Rust-first-CE422B?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/CodingInCarhartts)
+![Profile views](https://komarev.com/ghpvc/?username=CodingInCarhartts&style=for-the-badge&color=dea584&label=PROFILE+VIEWS)
+
 </div>
 
-###
+---
 
-<h1 align="center">Hey There 👋</h1>
+### Right now
 
-###
+No Omarchy. No Docker. Current daily driver:
 
-<h3 align="center">👩‍💻  About Me</h3>
+- **OS:** CachyOS (Arch rolling) · **WM:** Niri on Wayland · **Shell:** fish
+- **Containers:** Podman via socket (`/run/user/1000/podman/podman.sock`) - I built my own TUI for it
+- **What I'm shipping:** desktop coding agents, Niri learning tools, NPC world-sims in Unity, stream-chat widgets
 
-###
+```text
+yumcode               Electron + React desktop coding agent (pi SDK, multi-project hosts)
+niri-teach            Rust + GPUI drills that teach YOUR actual niri keybinds
+world-sim             Unity 6000 LowPolyCity - NPC social ties, POIs, dialogue
+yum-podman            Go TUI for podman: containers/pods/volumes/images over REST socket
+yum-noctalia-stream-chat  Noctalia bar widget - Twitch + Kick chat, no OAuth needed to read
+computer-use / herdr  computer-control + mobile bridge plumbing
+```
 
-<p align="left">I'm a full-stack developer based in the Pacific Northwest, specializing in Rust and system automation. I build tools that solve real problems — from game modification frameworks to AI-powered workflow automation.<br><br>
-- 🦀 Currently focused on Rust development with explorations into Zig and Odin<br>
-- 🤖 Building LLM integrations, Discord bots, and N8N automation workflows<br>
-- 🎮 Active in game modding (FiveM/GTA) and bot development for OSRS<br>
-- 🐧 Running Arch-based Omarchy with heavy Docker containerization<br>
-- 📂 Maintaining multiple projects across Rust, Python, TypeScript, and Lua<br>
-- ⚡ Known for systematic debugging and iterative problem-solving — I break things to understand them better</p>
+---
 
-[GPUS](https://runpod.io?ref=duz1inr5)
-<hr/>
-
-###
-
-<h3 align="left">🛠 Languages & Tools</h3>
-
-###
+### Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingInCarhartts&layout=compact&theme=dark" alt="top languages" />
-</div>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="postgress logo"  />        
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+
+[![Skills](https://skillicons.dev/icons?i=rust,ts,py,go,cs,lua,nodejs,electron,unity,postgres,linux,bash&theme=dark)](https://github.com/CodingInCarhartts)
+
 </div>
 
-<hr/>
+```text
+main    : rust · typescript · python · go · c# (unity) · luau
+systems : cachyos · niri/wayland · podman · fish · noctalia
+focus   : agent UX · dev tooling · automation · game sims · stream tooling
+past    : fiveM/gta modding, OSRS bots, docker-heavy omarchy - retired
+```
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+### Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodingInCarhartts&show_icons=true&theme=dark" alt="github stats" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodingInCarhartts&theme=tokyonight" height="165" alt="github stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodingInCarhartts&theme=tokyonight" height="165" alt="top languages" />
+<img src="https://streak-stats.demolab.com?user=CodingInCarhartts&theme=tokyonight&hide_border=true&background=0D1117&ring=DEA584&fire=DEA584&currStreakLabel=DEA584" height="165" alt="streak" />
 
 </div>
-<hr/>
-<h3 align="center">Featured Projects</h3>
 
-- opencode-updater → https://github.com/CodingInCarhartts/opencode-updater  
-  <sub>A simple Rust utility that updates the opencode binary to the latest version from GitHub releases, performing checksum verification and automated installation to provide a faster alternative to AUR updates.</sub>
-  
-- stream-monitor → https://github.com/CodingInCarhartts/stream-monitor  
-  <sub>A Python tool that monitors Kick streaming chat in real-time to detect mentions of your username and sends instant Discord notifications, helping content creators and viewers stay aware of chat activity across multiple streams.</sub>
+---
 
-- Remix → https://github.com/CodingInCarhartts/Remix  
-  <sub>A blazing-fast Rust CLI tool that packages entire codebases into single AI-friendly files, teaching efficient repository processing, WebSocket-like real-time data handling, and performance optimization through Rust's memory safety and concurrency features.</sub>
+### Featured builds (current)
 
-- commit-message → https://github.com/CodingInCarhartts/commit-message  
-  <sub>A Rust CLI tool that automates the commit message creation step in your git workflow by analyzing staged changes and git history to generate AI-powered conventional commit messages, replacing manual commit message writing.</sub>
+| Project | What it actually is |
+| ------- | ------------------- |
+| **[yumcode](https://github.com/CodingInCarhartts/yumcode)** | Desktop agent I live in: Electron host + per-project backends, computer-use controls, browser pane, MCP. |
+| **[niri-teach](https://github.com/CodingInCarhartts/niri-teach)** | Learn Niri by doing: parses your real `config.kdl`, builds a mastery curriculum. Rust, no network, no writes to config. |
+| **[yum-podman](https://github.com/CodingInCarhartts/yum-podman)** | Keyboard-driven Podman TUI in Go - REST over unix socket, no CLI scraping. Proof Docker isn't needed. |
+| **[world-sim](https://github.com/CodingInCarhartts/world-sim)** | Unity NPC sim: social ties, POI claims, dialogue sizing. Where I play with systems design. |
+| **[yum-noctalia-stream-chat](https://github.com/CodingInCarhartts/yum-noctalia-stream-chat)** | Noctalia plugin for Twitch/Kick chat + send-as-you. Anonymous read, Secret Service for creds. |
 
-- app-hoist → https://github.com/CodingInCarhartts/app-hoist  
-  <sub>A unified CLI that eliminates tool fragmentation in development workflows by providing a single interface for managing packages, projects, Docker containers, and multi-project deployments across different environments.</sub>
+Older utilities (`opencode-updater`, `Remix`, `commit-message`, `app-hoist`, `stream-monitor`) still in **[Repositories](https://github.com/CodingInCarhartts?tab=repositories)**.
 
-### 
+---
+
+### Setup
+
+- CachyOS · Niri (custom `~/.config/niri`) · fish · Podman socket enabled
+- Unity 6000.6 for sim work · Node 22+ / Electron for agent work · Rust 1.98+ for native tools
+- GPU burst: [RunPod](https://runpod.io?ref=duz1inr5)
+
+---
+
+<div align="center">
+
+*Full-stack by title, systems gremlin by habit - currently on CachyOS, not Omarchy.*
+
+</div>
