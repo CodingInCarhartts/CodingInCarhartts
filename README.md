@@ -62,17 +62,16 @@ past    : fiveM/gta modding, OSRS bots, docker-heavy omarchy - retired
 
 ---
 
-### Featured builds (current)
+### Public projects
 
-| Project | What it actually is |
-| ------- | ------------------- |
-| **[yumcode](https://github.com/CodingInCarhartts/yumcode)** | Desktop agent I live in: Electron host + per-project backends, computer-use controls, browser pane, MCP. |
-| **[niri-teach](https://github.com/CodingInCarhartts/niri-teach)** | Learn Niri by doing: parses your real `config.kdl`, builds a mastery curriculum. Rust, no network, no writes to config. |
-| **[yum-podman](https://github.com/CodingInCarhartts/yum-podman)** | Keyboard-driven Podman TUI in Go - REST over unix socket, no CLI scraping. Proof Docker isn't needed. |
-| **[world-sim](https://github.com/CodingInCarhartts/world-sim)** | Unity NPC sim: social ties, POI claims, dialogue sizing. Where I play with systems design. |
-| **[yum-noctalia-stream-chat](https://github.com/CodingInCarhartts/yum-noctalia-stream-chat)** | Noctalia plugin for Twitch/Kick chat + send-as-you. Anonymous read, Secret Service for creds. |
+| Project | Description |
+| ------- | ----------- |
+| **[rea](https://github.com/CodingInCarhartts/rea)** | Agent-assisted reverse engineering, from app behavior to native binaries. |
+| **[benilla](https://github.com/CodingInCarhartts/benilla)** | A World of Warcraft 1.12.1 client written in Rust and Bevy. |
+| **[opencode-updater](https://github.com/CodingInCarhartts/opencode-updater)** | Archived Rust utility for updating the opencode binary from GitHub releases. |
+| **[app-hoist](https://github.com/CodingInCarhartts/app-hoist)** | Archived Rust CLI for managing applications, projects, and packages. |
 
-Older utilities (`opencode-updater`, `Remix`, `commit-message`, `app-hoist`, `stream-monitor`) still in **[Repositories](https://github.com/CodingInCarhartts?tab=repositories)**.
+Some projects mentioned above are private and are not linked here.
 
 ---
 
